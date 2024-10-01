@@ -1,3 +1,1 @@
 # MARS project
-
-first project
